@@ -17,16 +17,19 @@ h2 {
 	background-color: rgb(0, 102, 255);
  }
 
+
+
+
 nav > ul {
 	line-height: 2em;
 	list-style-type: none;
 	padding-left: 5px;
 }
 
-section {background-color: rgb(102, 153, 255);
+section {background-color: rgb(52, 155, 235);
 	 width:75%;
-	 font-size:1.2em;
+	 font-size: 1.2em;
 	}
 
-footer {background-color: red;
+footer {background-color: rgb(204, 221, 255);
        }
